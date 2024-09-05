@@ -15,6 +15,7 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>Gen9-choferes</module>
+		<module>Gen9-camiones</module>
 	</modules>
 	
 	<properties>
